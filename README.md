@@ -11,9 +11,9 @@
 I wanted to try to see if I could use all of the colors that were captured by the camera to create an aura around the body which is the focus of the picture. To do this I adopted the method used in one of the examples shared in week 6 (Load Pixel shape random by Jiwon) and cobine that we the third party library from ml5 called poseNet(). PoseNet is a machine learning model which allowed me to estimate the position of body parts in the frame and use them to create a visual experience. This was exactly what I needed to show the body emitting energy. With a bunch of arbitrary math and if statements I was also able to create energy fields around the hand which increae in size as the arm goes higher on the canvas. In addition, I added an effect when the arms go to the highest point of the canvas. Finally, for some reason, I added a effect that gives the user a hat when their head is to the far left or right side of the canvas and then their hand shows an object that's related to the hat. I think I did this just to see what kind of gesture responses I could come up with using the head. 
 
 
-![ML Skeleton](https://cdn.glitch.com/5b668b88-be22-4de6-a547-a470cf9a8615%2Fexp_cam_sketch_1.jpg?v=1603149704772)
+![ML Skeleton](https://cdn.glitch.com/5b668b88-be22-4de6-a547-a470cf9a8615%2Fexp_cam_1.jpg?v=1603147226489)
 
-![ML Mario Hat](https://cdn.glitch.com/5b668b88-be22-4de6-a547-a470cf9a8615%2Fexp_cam_sketch_1.jpg?v=1603149704772)
+![ML Mario Hat](https://cdn.glitch.com/5b668b88-be22-4de6-a547-a470cf9a8615%2Fexp_cam_3.jpg?v=1603146884012)
 
 
 ## Reflection
