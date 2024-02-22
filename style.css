@@ -1,0 +1,27 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+button {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: 2px solid #fff;
+    cursor:pointer;
+    overflow: hidden;
+    color: #fff;
+    transition: background-color .3s ease-in-out, color .3s ease-in-out;
+}
+button:hover {
+  background-color: #fff !important;
+  color: #000 !important;
+  transition: background-color .3s ease-in-out, color .3s ease-in-out;
+}
+button:active {
+  background-color: #fff !important;
+  color: #000 !important;
+  transition: background-color .3s ease-in-out, color .3s ease-in-out;
+}
